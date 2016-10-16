@@ -1,0 +1,28 @@
+name: 'Social Profile'
+description: 'Social profile config'
+type: module
+# core: 8.x
+dependencies:
+  - address
+  - block
+  - field
+  - field_group
+  - file
+  - image
+  - node
+  - profile
+  - search_api
+  - social_core
+  - system
+  - taxonomy
+  - telephone
+  - text
+  - user
+  - views
+package: Social
+
+# Information added by Drupal.org packaging script on 2016-06-25
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'social'
+datestamp: 1466867503

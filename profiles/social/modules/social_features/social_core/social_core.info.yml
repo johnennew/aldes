@@ -1,0 +1,37 @@
+name: Core
+description: 'Provides core components required by other features.'
+type: module
+# core: 8.x
+dependencies:
+  - address
+  - block
+  - block_content
+  - comment
+  - datetime
+  - features
+  - field
+  - field_group
+  - file
+  - help
+  - image
+  - link
+  - node
+  - options
+  - path
+  - social_core
+  - system
+  - telephone
+  - text
+  - user
+  - views
+  - r4032login
+  - override_node_options
+  - template_suggestions_extra
+  - admin_toolbar_tools
+package: Social
+
+# Information added by Drupal.org packaging script on 2016-06-25
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'social'
+datestamp: 1466867503

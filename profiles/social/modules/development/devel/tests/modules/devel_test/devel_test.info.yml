@@ -1,0 +1,18 @@
+name: 'Devel test module'
+type: module
+description: 'Support module for Devel testing.'
+package: Testing
+# version: VERSION
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2016-02-20
+# version: '8.x-1.x-dev'
+# core: '8.x'
+# project: 'devel'
+# datestamp: 1455971359
+
+# Information added by Drupal.org packaging script on 2016-06-25
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'social'
+datestamp: 1466867503

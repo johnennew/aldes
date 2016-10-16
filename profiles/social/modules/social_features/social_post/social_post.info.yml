@@ -1,0 +1,23 @@
+name: Post
+description: 'Add Post functionality to Social.'
+type: module
+# core: 8.x
+dependencies:
+  - block
+  - comment
+  - dropdown
+  - field
+  - group
+  - social_comment
+  - social_post
+  - system
+  - text
+  - user
+  - views
+package: Social
+
+# Information added by Drupal.org packaging script on 2016-06-25
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'social'
+datestamp: 1466867503
