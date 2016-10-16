@@ -1,7 +1,0 @@
-name: ALDES System
-type: module
-description: 'Customisations for this project.'
-
-version: '8.x-1.0-alpha1'
-core: '8.x'
-project: 'aldes'

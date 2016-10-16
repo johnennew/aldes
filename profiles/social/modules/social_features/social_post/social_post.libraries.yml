@@ -1,6 +1,0 @@
-visibility-settings:
-  version: 1.x
-  js:
-    js/visibility-settings.js: {}
-  dependencies:
-    - core/jquery
